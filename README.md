@@ -59,6 +59,11 @@ The goal is to uncover key insights that help restaurant owners, investors, and 
 ## Conclusion
 
 The Restaurant Rating Analysis Dashboard turns raw restaurant data into meaningful insights, empowering businesses to enhance operations, elevate customer satisfaction, and grow strategically through data-driven actions.
+## DASHBOARD
+
+![App DASHBOARD](https://github.com/user-attachments/assets/64db0c2c-749f-4f72-bb04-c35eb13ba012)
+
+![App SUMMARY](https://github.com/user-attachments/assets/7a5cfccd-792d-4db3-a3b6-852bde5d7a76)
 ## Authors
 
 - [@blessingfaj](https://www.github.com/blessingfaj)
